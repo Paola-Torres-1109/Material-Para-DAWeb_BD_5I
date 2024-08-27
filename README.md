@@ -19,5 +19,10 @@ Tenemos link de referencia mas documentos Agosto 2024
 
 - Programacion en linea
 - https://coddy.tech/
-- ![image](https://github.com/user-attachments/assets/61b568f8-a927-4a3a-bf0f-fbe73a891017)
+ ![image](https://github.com/user-attachments/assets/61b568f8-a927-4a3a-bf0f-fbe73a891017)
+
+  
+## Diseño web con Figma
+- https://www.figma.com/
+![image](https://github.com/user-attachments/assets/383695c4-af6d-43d1-8299-16267cc0022f)
 
